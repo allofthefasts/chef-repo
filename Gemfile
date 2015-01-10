@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'berkshelf'
+gem 'rake', '~>10.4.2'
+gem 'chef', '~>11.16.4'
+gem 'knife-ec2', '~>0.10.0'
