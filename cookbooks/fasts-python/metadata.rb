@@ -1,0 +1,7 @@
+name             'fasts-python'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures fasts-python'
+long_description 'Installs/Configures fasts-python'
+version          '0.1.0'
